@@ -126,3 +126,4 @@ AIChatFlutter - это мультиплатформенное приложени
 - `TEMPERATURE` - Температура генерации (0.0 - 1.0)
 
 
+![a](https://github.com/user-attachments/assets/6c1c41ad-9b28-4084-8433-634aa24d760c)
