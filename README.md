@@ -127,3 +127,11 @@ AIChatFlutter - это мультиплатформенное приложени
 
 
 ![a](https://github.com/user-attachments/assets/6c1c41ad-9b28-4084-8433-634aa24d760c)
+
+![b](https://github.com/user-attachments/assets/d17406fc-d3c6-4e42-874d-b7aeb1abd7f4)
+
+![c](https://github.com/user-attachments/assets/76dacc3b-d8ff-4362-809f-74273147b92e)
+
+![d](https://github.com/user-attachments/assets/b58fa5ea-4553-48fa-94f6-e589f9b4997b)
+
+![e](https://github.com/user-attachments/assets/4fa45491-784b-4f84-9b15-a1e19d43f7c9)
