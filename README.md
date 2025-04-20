@@ -124,3 +124,5 @@ AIChatFlutter - это мультиплатформенное приложени
 - `BASE_URL` - URL API (https://openrouter.ai/api/v1 или https://api.vsetgpt.ru/v1)
 - `MAX_TOKENS` - Максимальное количество токенов для ответа
 - `TEMPERATURE` - Температура генерации (0.0 - 1.0)
+
+
